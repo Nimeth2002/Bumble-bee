@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web app>
+<servlet>
+<servlet-name>Loginservlet</servlet-name>
+<servlet-class> org.bumblebee.Loginservlet </servlet-class> 
+<servlet-mapping>
+<servlet-name>Loginservlet</servlet-name>
+<url-patterns>Httpservlet </url-patterns>
+</servlet-mapping>
+</servlet>
+</web app> 
